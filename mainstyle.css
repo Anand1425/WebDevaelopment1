@@ -1,0 +1,31 @@
+section div{
+    padding: 10px;
+    margin-bottom: 10px;
+    float: left;
+    width: 19.5%;
+    box-sizing: border-box;
+    margin-right: 5px;
+    height: 50px;
+    font-size: larger;
+    background-color:coral;
+}
+section .card {
+    border: 2px solid white;
+    padding: 10px;
+    margin-bottom: 10px;
+    float: left;
+    width: 25%;
+    box-sizing: border-box;
+    margin-right: 5px;
+    width: 24.6%;
+    height: 300px;
+    border-radius: 5px;
+    background-color: white;
+}
+.car-products{
+    color: brown;
+    text-align: center;
+}
+.d2{
+    text-align: center;
+}
